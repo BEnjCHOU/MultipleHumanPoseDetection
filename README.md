@@ -1,2 +1,2 @@
 # MultipleHumanPoseDetection
-Multiple Human Pose Detection using caffe model
+Multiple Human Pose Detection from a rgb sensor using caffe model.
