@@ -1,2 +1,1 @@
-# MultipleHumanPoseDetection
-Multiple Human Pose Detection from a rgb sensor using caffe model.
+# MultipleHumanPoseDetection with Realsense D435
